@@ -29,7 +29,7 @@ Deploy a production-grade web application on AWS using EC2 instances inside a pr
 
 ---
 
-## Architecture Diagram (ASCII overview)
+## Architecture Diagram
 
 
 
