@@ -31,7 +31,7 @@ Deploy a production-grade web application on AWS using EC2 instances inside a pr
 
 ## Architecture Diagram
 
-![Project Architecture] (mantra-project-architecture.png)
+![Project Architecture](mantra-project-architecture.png)
 
 ---
 
